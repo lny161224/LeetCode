@@ -63,9 +63,32 @@ import java.util.List;
  * }
  */
 class Solution {
+    List<List<Integer>> res = new ArrayList<>();
     ArrayList<Integer> ans = new ArrayList<>();
+    public void findpath(TreeNode root,int targetSum){
+        if (root.left== null && root.right == null){
+            if (targetSum == root.val){
+                ans.add(root.val);
+                res.add(new ArrayList<>(ans));
+                ans.remove(ans.size()-1);
+            }
+            return;
+        }
+        if (root.left != null){
+            ans.add(root.val);
+            findpath(root.left,targetSum-root.val);
+            ans.remove(ans.size()-1);
+        }
+        if (root.right != null){
+            ans.add(root.val);
+            findpath(root.right,targetSum-root.val);
+            ans.remove(ans.size()-1);
+        }
+    }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-
+        if (root == null)return res;
+        findpath(root,targetSum);
+        return res;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
