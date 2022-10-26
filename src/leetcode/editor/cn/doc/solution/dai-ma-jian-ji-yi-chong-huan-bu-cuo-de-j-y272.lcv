@@ -1,0 +1,27 @@
+[详细刷题视频合集](https://xiaochen1024.com/series/6196129fc1553b002e57bef5/6196208ec1553b002e57bef6)      
+[刷题笔记](https://xiaochen1024.com/courseware/60b4f11ab1aa91002eb53b18)
+位运算
+
+如果我们知道一个数的16次方，需要球32次方，那么此时只需要在16吃饭的基础上再平方即可；而16次方是8次方的平方...... 4......2.....1
+
+所以我们求32次方只需要进行5次乘方运算，而不再需要31次循环。
+
+* 
+
+```
+var myPow = function(x, n) {
+   
+    let res = 1.0;
+    let abn = n<0?-n:n;
+    while(abn>0){
+        if(abn&1){
+            res*=x;
+        }
+        x*=x;
+        abn >>>= 1
+    }
+    return n<0? 1/res:res;
+};
+
+```
+
