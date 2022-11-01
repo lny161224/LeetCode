@@ -135,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[131]分割回文串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[131]分割回文串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn131" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[131]分割回文串.java" />
+              <option name="titleSlug" value="palindrome-partitioning" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[142]环形链表 II.java">
           <value>
             <LeetcodeEditor>
@@ -212,6 +223,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[17]电话号码的字母组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[17]电话号码的字母组合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn17" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[17]电话号码的字母组合.java" />
+              <option name="titleSlug" value="letter-combinations-of-a-phone-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[1800]最大升序子数组和.java">
           <value>
             <LeetcodeEditor>
@@ -220,6 +242,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[1800]最大升序子数组和.java" />
               <option name="titleSlug" value="maximum-ascending-subarray-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[1822]数组元素积的符号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[1822]数组元素积的符号.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1822" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[1822]数组元素积的符号.java" />
+              <option name="titleSlug" value="sign-of-the-product-of-an-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -308,6 +341,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[20]有效的括号.java" />
               <option name="titleSlug" value="valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[216]组合总和 III.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[216]组合总和 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn216" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[216]组合总和 III.java" />
+              <option name="titleSlug" value="combination-sum-iii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -509,6 +553,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[39]组合总和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[39]组合总和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn39" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[39]组合总和.java" />
+              <option name="titleSlug" value="combination-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[404]左叶子之和.java">
           <value>
             <LeetcodeEditor>
@@ -517,6 +572,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[404]左叶子之和.java" />
               <option name="titleSlug" value="sum-of-left-leaves" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[40]组合总和 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[40]组合总和 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn40" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[40]组合总和 II.java" />
+              <option name="titleSlug" value="combination-sum-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -561,6 +627,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[459]重复的子字符串.java" />
               <option name="titleSlug" value="repeated-substring-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[481]神奇字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[481]神奇字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn481" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[481]神奇字符串.java" />
+              <option name="titleSlug" value="magical-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -726,6 +803,39 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[707]设计链表.java" />
               <option name="titleSlug" value="design-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[77]组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[77]组合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn77" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[77]组合.java" />
+              <option name="titleSlug" value="combinations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[784]字母大小写全排列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[784]字母大小写全排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn784" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[784]字母大小写全排列.java" />
+              <option name="titleSlug" value="letter-case-permutation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[907]子数组的最小值之和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[907]子数组的最小值之和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn907" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[907]子数组的最小值之和.java" />
+              <option name="titleSlug" value="sum-of-subarray-minimums" />
             </LeetcodeEditor>
           </value>
         </entry>
